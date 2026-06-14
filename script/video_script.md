@@ -1,0 +1,6 @@
+“Hello everyone. Today I’m going to talk about the secret behind recommendation systems and how they relate to Artificial Intelligence and Information Technology.”
+Have you noticed how YouTube suggests videos you want to watch or Netflix recommends movies you might enjoy? This happens because of recommendation systems. A recommendation system is an algorithm that predicts what users may like based on their behavior and interests.”
+These systems collect information such as watch history, clicks, searches, ratings, and purchases. Then Artificial Intelligence and machine learning analyze the data and identify patterns to predict what content users are most likely to enjoy.”
+Recommendation systems are an important part of Information Technology because they use databases, software development, cloud computing, and data analysis. They are also a major topic in AI because machine learning helps make recommendations more accurate and personalized over time.”
+Many companies use recommendation systems every day. Netflix recommends shows, Amazon suggests products, and Spotify creates personalized playlists.”
+To conclude, recommendation systems use data and AI to improve user experience and make digital platforms smarter. Thank you for watching.”
